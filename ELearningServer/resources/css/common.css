@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+body{
+	margin:0px;
+	padding:0px;
+	font-size:12px; 
+	line-height:1.8;
+	font-family: Verdana,宋体;
+	background:url(../image/bg.jpg) fixed;
+}
+
+.center{
+	height: 2768px;
+	margin: 0 auto;
+    overflow: hidden;
+    width: 1024px;
+	background:#ffffff;
+}
